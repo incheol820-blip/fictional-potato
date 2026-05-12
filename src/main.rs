@@ -27,22 +27,33 @@ fn configure_fonts(ctx: &egui::Context) {
 
     #[cfg(target_os = "windows")]
     {
-        // Windows 기본 한글 폰트 (맑은 고딕) 우선 사용
-        let malgun_path = Path::new(r"C:\Windows\Fonts\malgun.ttf");
-        if let Ok(bytes) = fs::read(malgun_path) {
+        // Windows 기본 한글 폰트(맑은 고딕)를 우선 등록해 한글 글리프 깨짐(□)을 방지합니다.
+        let candidates = [
+            Path::new(r"C:\Windows\Fonts\malgun.ttf"),
+            Path::new(r"C:\Windows\Fonts\malgunsl.ttf"),
+        ];
+
+        let maybe_bytes = candidates.iter().find_map(|path| fs::read(path).ok());
+
+        if let Some(bytes) = maybe_bytes {
             fonts
                 .font_data
                 .insert("malgun_gothic".to_owned(), egui::FontData::from_owned(bytes).into());
 
-            if let Some(family) = fonts.families.get_mut(&egui::FontFamily::Proportional) {
-                family.insert(0, "malgun_gothic".to_owned());
-            }
-            if let Some(family) = fonts.families.get_mut(&egui::FontFamily::Monospace) {
-                family.insert(0, "malgun_gothic".to_owned());
-            }
+            fonts
+                .families
+                .entry(egui::FontFamily::Proportional)
+                .or_default()
+                .insert(0, "malgun_gothic".to_owned());
+            fonts
+                .families
+                .entry(egui::FontFamily::Monospace)
+                .or_default()
+                .insert(0, "malgun_gothic".to_owned());
         }
     }
 
+    // 앱 시작 시 전체 폰트 정의를 적용합니다.
     ctx.set_fonts(fonts);
 }
 
