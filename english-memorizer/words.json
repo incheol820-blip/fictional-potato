@@ -1,0 +1,158 @@
+{
+  "초급": [
+    {
+      "word": "apple",
+      "meaning": "사과",
+      "example": "I eat an apple every morning."
+    },
+    {
+      "word": "book",
+      "meaning": "책",
+      "example": "She reads a book after dinner."
+    },
+    {
+      "word": "water",
+      "meaning": "물",
+      "example": "Please drink enough water."
+    },
+    {
+      "word": "happy",
+      "meaning": "행복한",
+      "example": "He looks happy today."
+    },
+    {
+      "word": "school",
+      "meaning": "학교",
+      "example": "The children go to school by bus."
+    },
+    {
+      "word": "friend",
+      "meaning": "친구",
+      "example": "My friend lives near my house."
+    },
+    {
+      "word": "family",
+      "meaning": "가족",
+      "example": "I spend time with my family on weekends."
+    },
+    {
+      "word": "music",
+      "meaning": "음악",
+      "example": "We listen to music in the car."
+    },
+    {
+      "word": "small",
+      "meaning": "작은",
+      "example": "This is a small room."
+    },
+    {
+      "word": "morning",
+      "meaning": "아침",
+      "example": "I exercise in the morning."
+    }
+  ],
+  "중급": [
+    {
+      "word": "improve",
+      "meaning": "향상시키다",
+      "example": "Practice can improve your English skills."
+    },
+    {
+      "word": "decision",
+      "meaning": "결정",
+      "example": "It was a difficult decision for the team."
+    },
+    {
+      "word": "support",
+      "meaning": "지원하다",
+      "example": "Her parents support her dream."
+    },
+    {
+      "word": "require",
+      "meaning": "요구하다",
+      "example": "This job requires strong communication skills."
+    },
+    {
+      "word": "reduce",
+      "meaning": "줄이다",
+      "example": "We should reduce plastic waste."
+    },
+    {
+      "word": "suggest",
+      "meaning": "제안하다",
+      "example": "I suggest taking a short break."
+    },
+    {
+      "word": "prepare",
+      "meaning": "준비하다",
+      "example": "They prepare dinner together."
+    },
+    {
+      "word": "include",
+      "meaning": "포함하다",
+      "example": "The price includes breakfast."
+    },
+    {
+      "word": "compare",
+      "meaning": "비교하다",
+      "example": "Compare the two answers carefully."
+    },
+    {
+      "word": "environment",
+      "meaning": "환경",
+      "example": "Clean air is important for the environment."
+    }
+  ],
+  "고급": [
+    {
+      "word": "accommodate",
+      "meaning": "수용하다",
+      "example": "The hotel can accommodate large groups."
+    },
+    {
+      "word": "consequence",
+      "meaning": "결과",
+      "example": "Every choice has a consequence."
+    },
+    {
+      "word": "substantial",
+      "meaning": "상당한",
+      "example": "The project requires substantial investment."
+    },
+    {
+      "word": "interpret",
+      "meaning": "해석하다",
+      "example": "Different readers may interpret the poem differently."
+    },
+    {
+      "word": "negotiate",
+      "meaning": "협상하다",
+      "example": "They will negotiate the terms of the contract."
+    },
+    {
+      "word": "inevitable",
+      "meaning": "불가피한",
+      "example": "Some changes are inevitable."
+    },
+    {
+      "word": "perspective",
+      "meaning": "관점",
+      "example": "Try to see the issue from another perspective."
+    },
+    {
+      "word": "implement",
+      "meaning": "시행하다",
+      "example": "The company will implement a new policy."
+    },
+    {
+      "word": "comprehensive",
+      "meaning": "포괄적인",
+      "example": "The report gives a comprehensive overview."
+    },
+    {
+      "word": "significant",
+      "meaning": "중요한",
+      "example": "There was a significant increase in sales."
+    }
+  ]
+}

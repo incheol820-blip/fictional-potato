@@ -1,0 +1,338 @@
+{
+  "learned_words": {
+    "초급:apple": {
+      "level": "초급",
+      "word": "apple",
+      "meaning": "사과",
+      "example": "I eat an apple every morning.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "초급:book": {
+      "level": "초급",
+      "word": "book",
+      "meaning": "책",
+      "example": "She reads a book after dinner.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "초급:water": {
+      "level": "초급",
+      "word": "water",
+      "meaning": "물",
+      "example": "Please drink enough water.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "초급:happy": {
+      "level": "초급",
+      "word": "happy",
+      "meaning": "행복한",
+      "example": "He looks happy today.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "초급:school": {
+      "level": "초급",
+      "word": "school",
+      "meaning": "학교",
+      "example": "The children go to school by bus.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "초급:friend": {
+      "level": "초급",
+      "word": "friend",
+      "meaning": "친구",
+      "example": "My friend lives near my house.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "초급:family": {
+      "level": "초급",
+      "word": "family",
+      "meaning": "가족",
+      "example": "I spend time with my family on weekends.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "초급:music": {
+      "level": "초급",
+      "word": "music",
+      "meaning": "음악",
+      "example": "We listen to music in the car.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "초급:small": {
+      "level": "초급",
+      "word": "small",
+      "meaning": "작은",
+      "example": "This is a small room.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "초급:morning": {
+      "level": "초급",
+      "word": "morning",
+      "meaning": "아침",
+      "example": "I exercise in the morning.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:improve": {
+      "level": "중급",
+      "word": "improve",
+      "meaning": "향상시키다",
+      "example": "Practice can improve your English skills.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:decision": {
+      "level": "중급",
+      "word": "decision",
+      "meaning": "결정",
+      "example": "It was a difficult decision for the team.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:support": {
+      "level": "중급",
+      "word": "support",
+      "meaning": "지원하다",
+      "example": "Her parents support her dream.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:require": {
+      "level": "중급",
+      "word": "require",
+      "meaning": "요구하다",
+      "example": "This job requires strong communication skills.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:reduce": {
+      "level": "중급",
+      "word": "reduce",
+      "meaning": "줄이다",
+      "example": "We should reduce plastic waste.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:suggest": {
+      "level": "중급",
+      "word": "suggest",
+      "meaning": "제안하다",
+      "example": "I suggest taking a short break.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:prepare": {
+      "level": "중급",
+      "word": "prepare",
+      "meaning": "준비하다",
+      "example": "They prepare dinner together.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:include": {
+      "level": "중급",
+      "word": "include",
+      "meaning": "포함하다",
+      "example": "The price includes breakfast.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:compare": {
+      "level": "중급",
+      "word": "compare",
+      "meaning": "비교하다",
+      "example": "Compare the two answers carefully.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "중급:environment": {
+      "level": "중급",
+      "word": "environment",
+      "meaning": "환경",
+      "example": "Clean air is important for the environment.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "고급:accommodate": {
+      "level": "고급",
+      "word": "accommodate",
+      "meaning": "수용하다",
+      "example": "The hotel can accommodate large groups.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 1,
+      "wrong_count": 0
+    },
+    "고급:consequence": {
+      "level": "고급",
+      "word": "consequence",
+      "meaning": "결과",
+      "example": "Every choice has a consequence.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 1,
+      "wrong_count": 0
+    },
+    "고급:interpret": {
+      "level": "고급",
+      "word": "interpret",
+      "meaning": "해석하다",
+      "example": "Different readers may interpret the poem differently.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "고급:negotiate": {
+      "level": "고급",
+      "word": "negotiate",
+      "meaning": "협상하다",
+      "example": "They will negotiate the terms of the contract.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "고급:inevitable": {
+      "level": "고급",
+      "word": "inevitable",
+      "meaning": "불가피한",
+      "example": "Some changes are inevitable.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "고급:perspective": {
+      "level": "고급",
+      "word": "perspective",
+      "meaning": "관점",
+      "example": "Try to see the issue from another perspective.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    },
+    "고급:implement": {
+      "level": "고급",
+      "word": "implement",
+      "meaning": "시행하다",
+      "example": "The company will implement a new policy.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 1
+    },
+    "고급:significant": {
+      "level": "고급",
+      "word": "significant",
+      "meaning": "중요한",
+      "example": "There was a significant increase in sales.",
+      "learned_at": "2026-05-12",
+      "review_due": "2026-05-12",
+      "review_interval_days": 1,
+      "correct_count": 0,
+      "wrong_count": 0
+    }
+  },
+  "quiz_results": [
+    {
+      "word_key": "고급:accommodate",
+      "word": "accommodate",
+      "user_answer": "수용하다",
+      "correct_answer": "수용하다",
+      "is_correct": true,
+      "checked_at": "2026-05-12T09:12:06"
+    },
+    {
+      "word_key": "고급:consequence",
+      "word": "consequence",
+      "user_answer": "결과",
+      "correct_answer": "결과",
+      "is_correct": true,
+      "checked_at": "2026-05-12T09:12:27"
+    },
+    {
+      "word_key": "고급:implement",
+      "word": "implement",
+      "user_answer": "이행하다",
+      "correct_answer": "시행하다",
+      "is_correct": false,
+      "checked_at": "2026-05-12T09:12:39"
+    }
+  ]
+}
